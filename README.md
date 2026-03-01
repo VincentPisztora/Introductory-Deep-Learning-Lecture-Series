@@ -5,3 +5,5 @@ This directory contains lecture notes from a short series of lectures I delivere
 1. Losses: MSE, Cross-Entropy
 2. Optimization: Backpropagation, Stochastic Gradient Descent, Momentum, RMSProp, Adam
 3. Architectures: ResNet (Dense, 2D Convolution, Pooling, Residual, Batch Normalization, and Dropout layers)
+
+<img src="https://www.google-analytics.com/collect?v=1&tid=G-QST3V3PB55&cid=555&t=event&ec=repo&ea=view&el=Introductory-Deep-Learning-Lecture-Series" style="display:none">
